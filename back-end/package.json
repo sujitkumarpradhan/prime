@@ -16,7 +16,7 @@
     "mailcomposer": "^4.0.2",
     "morgan": "~1.9.0",
     "node-ses": "^2.1.0",
-    "nodemailer": "^4.4.2",
+    "nodemailer": "^6.4.16",
     "nodemailer-ses-transport": "^1.5.1",
     "serve-favicon": "~2.4.5"
   }
